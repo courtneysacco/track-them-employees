@@ -29,6 +29,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ```
 
 ## Screenshots
-
+![](./assets/images/employee%20list.png)
+![](./assets/images/updated%20list.png)
 
 ## Links
+<a href="https://drive.google.com/file/d/1KCCv-yjvehMf44RSDffkvpT0Q6v6d1y_/view"
+target="_blank">Walkthrough Video</a>
